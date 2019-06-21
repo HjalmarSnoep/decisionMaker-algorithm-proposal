@@ -3,16 +3,33 @@
 # decisionMaker v0.1-proposal
 This will become a proposal to put into code a system that can make decisions on a global scale fairly and will ultimately replace nation-based government.
 
-This project is probably doomed, but I´ll keep hacking at it until I´m absolutely certain about that, I hope some people will join me, but if not.. I´ll keep coming back here and adding.
+I am a developer, this will appeal most to developers.
+The idea comes from sites/software like https://stackoverflow.com/ and https://meta.stackexchange.com, where incredibly complicated matter is being explained daily to masses of people. From https://nl.khanacademy.org/ which aims to spread education around the globe, to give anyone a fair chance. And from https://bitcoin.org/bitcoin.pdf the bitcoin manifesto, which utilises systems like blockchain or tangle, which is basically a collaborative security system.
+The right information floats to the top, because of a system of feedback loops they have. 
+This lead me to think about how we could do the same for subtler systems.
+Hopefully eleminating war, greed, nations and hate. (basically us and them thinking)
 
-It might be a bit megalomanic, but hey.. 
-I have done things before because I didn´t know they were impossible to do, so who knows.
-I have very little interest in politics, creeds or beliefs, but a lot of interest in fairness and I´m sick of the way we run things now.
+This project is probably doomed, because it´s scope is too big.
+But I´ll keep hacking at it until I´m absolutely certain about that, I hope some people will join me, but if not.. 
+I´ll keep coming back here and adding.
+``` 
+If(want_to_change-the_world===true  &&  have_sourcecode===false)
+{
+    write_it_from_the_ground_up();
+}
+```
 
+It might be a bit megalomanic to even start this, but hey.. 
+People have done things before because they didn´t know they were impossible to do, so who knows...
 
 ## the why
 ### no more governments..
-It is time to understand, it´s not Chinese government that is the problemn, not US government, not UK government, not Ugandan government. It´s ANY government. 
+We can all bitch about Trump, say China is a dictatorship.. Generally don´t agree with our own governments.
+But....
+It is time to understand, it´s not Chinese government that is the problemn, not the US government, not the UK government, not Ugandan government. 
+
+> It´s ANY government. 
+
 Governments will always tend to overreach, lie, cheat, play dirty. 
 You think we are bad, we think you are bad, because that´s all we hear. 
 Propaganda. 
