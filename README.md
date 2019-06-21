@@ -1,7 +1,12 @@
 # DON´T BE A CITIZEN
 
 # decisionMaker v0.1-proposal
-This will become a proposal to put into code a system that can make decisions on a global scale fairly and will ultimately replace nation-based government
+This will become a proposal to put into code a system that can make decisions on a global scale fairly and will ultimately replace nation-based government.
+It´s probably doomed, but I´ll keep hacking at it until I´m certain about that..
+It might be a bit megalomanic, but hey.. 
+I have done things before because I didn´t know they were impossible to do, so who knows.
+I have very little interest in politics, creeds or beliefs, but a lot of interest in fairness and I´m sick of the way we run things now.
+
 
 ## the why
 ### no more governments..
