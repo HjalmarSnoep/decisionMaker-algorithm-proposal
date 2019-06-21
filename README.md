@@ -1,6 +1,6 @@
-# HELP WORK TOWARDS NO LONGER BEING A CITIZEN
+# DON´T BE A CITIZEN
 
-# decisionMaker-proposal
+# decisionMaker v0.1-proposal
 This will become a proposal to put into code a system that can make decisions on a global scale fairly and will ultimately replace nation-based government
 
 ## the why
